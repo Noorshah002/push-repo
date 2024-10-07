@@ -31,19 +31,19 @@ Fanofan provides high-quality electric fans suited for diverse needs, from energ
 
 ### Table fan 
 
- <img src="1.webp" alt=""  width=100>
+ <img src="imges/1.webp" alt=""  width=100>
 
 ### Bracket fan
 
- <img src="2.jpg" alt=""  width=100>
+ <img src="imges/2.jpg" alt=""  width=100>
 
 ### Ceiling fan
 
- <img src="3.jpg" alt=""  width=100>
+ <img src="imges/3.jpg" alt=""  width=100>
 
 ### Exhaust fan
 
- <img src="4jpg" alt="" width=100>
+ <img src="imges/4jpg" alt="" width=100>
 
    
 
