@@ -29,5 +29,7 @@ Fanofan provides high-quality electric fans suited for diverse needs, from energ
 - Durable materials for long-lasting use
 - Quiet operation to ensure comfort
 
+
+
    
 
