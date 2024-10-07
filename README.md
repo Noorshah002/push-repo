@@ -43,7 +43,7 @@ Fanofan provides high-quality electric fans suited for diverse needs, from energ
 
 ### Exhaust fan
 
- <img src="imges/4jpg" alt="" width=100>
+ <img src="imges/4.jpg" alt="" width=100>
 
    
 
