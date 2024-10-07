@@ -3,13 +3,13 @@
 Fanofan offers a wide range of electric fans, including inverter, remote-controlled, ceiling, table, and exhaust fans. Our fans are designed to provide efficient air circulation, combining advanced technology with stylish designs.
 
 ## our catagory 
-1. Table fan
-2. ceiling fan
-3. exhaust fan
-4. bracket fan
-5. remote controller fan
-6. stand fan
-7. inverter fan
+* Table fan
+* ceiling fan
+* exhaust fan
+* bracket fan
+* remote controller fan
+* stand fan
+*  inverter fan
 
    ## Overview
 
@@ -29,7 +29,21 @@ Fanofan provides high-quality electric fans suited for diverse needs, from energ
 - Durable materials for long-lasting use
 - Quiet operation to ensure comfort
 
+### Table fan 
 
+ <img src="1.webp" alt=""  width=100>
+
+### Bracket fan
+
+ <img src="2.jpg" alt=""  width=100>
+
+### Ceiling fan
+
+ <img src="3.jpg" alt=""  width=100>
+
+### Exhaust fan
+
+ <img src="4jpg" alt="" width=100>
 
    
 
